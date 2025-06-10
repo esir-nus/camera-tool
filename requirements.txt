@@ -1,0 +1,12 @@
+# Core AIDB dependencies
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0
+
+# Camera-specific dependencies
+opencv-python>=4.5.0
+numpy>=1.21.0
+ultralytics>=8.0.0
+
+# Additional dependencies for camera processing
+Pillow>=9.0.0 
